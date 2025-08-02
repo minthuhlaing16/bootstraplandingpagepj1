@@ -30,5 +30,14 @@ header {
   background-attachment: fixed;
 }
 
-/* Start */
+/* Start Navbar  */
+.navbar {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), var(--primary-color));
+  padding: 20px 30px;
+}
+/* End Navbar */
+
+/* Start Banner */
+/* End Banner */
+
 /* End Header Section  */
